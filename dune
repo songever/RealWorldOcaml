@@ -1,0 +1,9 @@
+(executable
+  (name sum)
+  (libraries base stdio)
+)
+
+(executable
+  (name freq)
+  (libraries base stdio)
+)
